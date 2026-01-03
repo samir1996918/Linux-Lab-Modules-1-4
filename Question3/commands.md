@@ -1,1 +1,12 @@
 
+echo "Sample data for links" > ~/sample_data.txt
+ln sample_data.txt sample_hard.txt
+ln -s sample_data.txt sample_soft.txt
+ls -i sample_data.txt sample_hard.txt sample_soft.txt
+ls -l sample_data.txt
+du -sh ~
+ls -lh ~
+rm sample_soft.txt
+ls sample_data.txt
+du -h
+df -h
