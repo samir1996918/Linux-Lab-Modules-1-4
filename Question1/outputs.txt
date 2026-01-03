@@ -1,1 +1,22 @@
+1. whoami shows my currently logged-in username.
+   groups displays all the groups my user account belongs to.
+
+2. pwd displays my present working directory.
+   ls -l lists all files and directories with detailed information.
+
+3. echo command creates user_info.txt and writes a confirmation message into it.
+
+4. wc -c displays the total number of characters in user_info.txt.
+
+5. The -p option in mkdir creates parent directories if they do not exist.
+
+6. ls ~ lists the contents of my home directory alphabetically.
+
+7. grep searches for the word "admin" in log.txt and displays only matching lines.
+
+8. uname -r shows the Linux kernel version currently running.
+
+9. ping checks network connectivity by sending ICMP packets to Google.
+
+10. uptime displays how long the system has been running, number of users, and load average.
 
