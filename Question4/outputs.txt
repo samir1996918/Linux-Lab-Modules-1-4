@@ -1,1 +1,20 @@
+1. uptime displays system running time since last boot.
+
+2. ps -u lists all processes running under my user account.
+
+3. top shows real-time CPU usage and running processes.
+
+4. sleep command is run in background and verified using jobs.
+
+5. renice changes the priority of a running process.
+
+6. free -h displays memory usage in human-readable format.
+
+7. df -h displays disk space usage of the filesystem.
+
+8. echo $SHELL shows the currently active shell.
+
+9. Output of uname command is redirected into system_report.txt.
+
+10. du with max-depth shows disk usage visually per directory.
 
