@@ -1,1 +1,14 @@
+whoami
+groups
+pwd
+ls -l
+echo "Linux user environment verified" > user_info.txt
+wc -c user_info.txt
+man mkdir
+ls ~
+nano log.txt
+grep "admin" log.txt
+uname -r
+ping -c 4 www.google.com
+uptime
 
