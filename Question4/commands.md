@@ -1,1 +1,12 @@
 
+uptime
+ps -u $USER
+top
+sleep 300 &
+jobs
+renice 5 -p <PID>
+free -h
+df -h ~
+echo $SHELL
+uname -a > system_report.txt
+du -h --max-depth=1 ~
