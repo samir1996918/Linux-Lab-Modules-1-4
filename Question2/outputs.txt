@@ -1,1 +1,20 @@
+1. mkdir creates a directory named documents in my home directory.
+
+2. cd navigates into the documents directory and touch creates an empty file.
+
+3. echo writes sample project text into plan.txt.
+
+4. ls -l displays permissions, ownership, and file details.
+
+5. cp creates a copy of plan.txt named plan_copy.txt.
+
+6. mv renames the documents directory to project_documents.
+
+7. mkdir creates an archive subdirectory inside project_documents.
+
+8. mv moves plan_copy.txt into the archive directory.
+
+9. ls -R lists all files and subdirectories recursively.
+
+10. realpath displays the absolute path of the file.
 
